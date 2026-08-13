@@ -1,7 +1,0 @@
-server:
-  servlet:
-    context-path: /
-
-spring:
-  application:
-    name: template-tomcat
